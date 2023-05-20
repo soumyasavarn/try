@@ -1,2 +1,3 @@
-Hi I am Soumya
-I learnt a few things so I want to contribute to github
+Hi I am Soumya Savarn
+I am from MnC Department :(
+My Roll no is 220123063
